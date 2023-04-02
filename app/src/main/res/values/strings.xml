@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">TipSplit</string>
+    <string name="bill_total_with_tax">Bill Total with Tax:</string>
+    <string name="tip_percent">Tip Percent:</string>
+    <string name="tip_amount">Tip Amount:</string>
+    <string name="total_with_tip">Total With Tip:</string>
+    <string name="number_of_people">Number Of People:</string>
+    <string name="total_per_person">Total Per Person:</string>
+    <string name="overage">Overage:</string>
+    <string name="button">Button</string>
+    <string name="goBtn">Go</string>
+    <string name="clear">Clear</string>
+    <string name="_12">12%</string>
+    <string name="_15">15%</string>
+    <string name="_18">18%</string>
+    <string name="_20">20%</string>
+    <string name="_1">1</string>
+    <string name="_0_00_tat">$0.00</string>
+    <string name="_0_00_bt">0.00</string>
+    <string name="_0_00_twt">$0.00</string>
+    <string name="_0_00_tapp">$0.00</string>
+    <string name="_0_00_ovg">$0.00</string>
+<!--    <string name="_0_00_btl">0.00</string>-->
+<!--    <string name="_1_np">1</string>-->
+<!--    <string name="_0_00_ta">$0.00</string>-->
+<!--    <string name="_0_00_tappl">$0.00</string>-->
+<!--    <string name="_0_00_twtl">$0.00</string>-->
+<!--    <string name="_0_00_ovgl">$0.00</string>-->
+</resources>
